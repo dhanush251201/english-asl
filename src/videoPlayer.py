@@ -4,13 +4,17 @@ import PySimpleGUI as sg
 from APICall import APICall
 from openai import OpenAI
 
+# ---------------------------------------------------------- #
+# Connection to the LLM server
+# ---------------------------------------------------------- #
+
 client = OpenAI(base_url="http://localhost:1234/v1", api_key="not-needed")
 
-# ---------------------------------------------------- #
+# ---------------------------------------------------------- #
 # Gets input from the user
-# ---------------------------------------------------- #
+# ---------------------------------------------------------- #
 
-def getInput():
+def getInput() -> str:
     layout = [
         [sg.Text("Enter String: "), sg.InputText(key='-INPUT-')],
         [sg.Button('Play Videos'), sg.Button('Exit')],]
@@ -21,26 +25,25 @@ def getInput():
         event, values = window.read()
 
         if event in (sg.WIN_CLOSED, 'Exit'):
-            return -1
+            return 'ERR'
         elif event == 'Play Videos':
             return values['-INPUT-']
 
-
-
-# ---------------------------------------------------- #
-# Takes a list of actions as input for each action calls the playVideo function
-# ---------------------------------------------------- #
+# ---------------------------------------------------------- #
+# Takes a list of actions as input
+# For each action calls the playVideo function
+# ---------------------------------------------------------- #
 
 def Sequence(inp : list, action : str) -> None:
     for i in inp:
-        param = i+".mp4"
+        param = i.lower()+".mp4"
         playVideo(param,action)
 
-# ---------------------------------------------------- #
+# ---------------------------------------------------------- #
 # The logic to play the videos
-# ---------------------------------------------------- #
+# ---------------------------------------------------------- #
 
-def playVideo(inputFile:str, action : str) -> None:
+def playVideo(inputFile : str, action : str) -> None:
     cap = cv2.VideoCapture("Videos/"+inputFile)
     if (cap.isOpened() == False):
         print(f"Error opening video stream or file {inputFile}")
@@ -55,22 +58,18 @@ def playVideo(inputFile:str, action : str) -> None:
     cap.release()
     cv2.destroyAllWindows()
 
-# ---------------------------------------------------- #
+# ---------------------------------------------------------- #
 # ENTRYPOINT
-# ---------------------------------------------------- #
+# ---------------------------------------------------------- #
+def main():
+    while True:
+        INPUT = getInput()
+        if INPUT == 'ERR':
+            break
+        else:
+            VIDEOS = APICall(INPUT)
+            print(VIDEOS)
+            Sequence(VIDEOS, INPUT)
 
-while True:
-    INPUT = getInput()
-    if INPUT == -1:
-        break
-    else:
-        VIDEOS = APICall(INPUT)
-        print(VIDEOS)
-        Sequence(VIDEOS, INPUT)
-
-# INPUT1 = "I am thirsty, give me hot water"
-
-# print( APICall(INPUT1) )
-# Sequence(['me','muscle','murder'],"hello i am Dhanush")
-
-# print( getInput() )
+if __name__ == "__main__":
+    main()

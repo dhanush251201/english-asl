@@ -1,15 +1,21 @@
-# Example: reuse your existing OpenAI setup
 from openai import OpenAI
 
+# ---------------------------------------------------------- #
 # Point to the local server
+# ---------------------------------------------------------- #
+
 client = OpenAI(base_url="http://localhost:1234/v1", api_key="not-needed")
 
-# INPUT = "I am thirsty, give me hot water"
-def APICall(QUERY : str):
+
+def APICall(QUERY : str) -> list:
+
+    # ---------------------------------------------------------- #
+    # The prompt used to
+    # ---------------------------------------------------------- #
+
     PROMPT = """
-    You are a helper that converts English words into ASL tokens. The following is a list of tokens:
-    I,Food,hungry,drink,eat,play,run,walk,tree,give,water,hot,cold,night,happy,sick, sad,around, today,give, Thirsty,sky, name, thankYou, good, healthy, morning, today, tonight, tomorrow, yesterday
-    Sample input and output is provided. Ensure to preserve the tense of the sentence and the person if it is first, second or third person
+    You are a helper that converts English words into ASL tokens.
+    Sample input and output is provided. Ensure to preserve the tense of the sentence and the person if it is first, second or third person. Also covert all words  to the root like saying to say, laying to lay, saving to save, etc.
     The output format is "token1, token2, token3...."
 
     Example 1:
@@ -32,12 +38,29 @@ def APICall(QUERY : str):
     Input : water the tree tomorrow morning and eat food
     Output : water, tree, Tomorrow, morning, eat, food
 
+    Example 6:
+    Input : I like walking
+    Output : i, like, walk
+
+    Example 7:
+    Input : I like to watch car race
+    Output : i, like, watch, car, race
+
+
     Generate only tokens.
     """
 
-    INPUT=f"""input text is " {QUERY} "
+    # ---------------------------------------------------------- #
+    # User Input is added to the request payload
+    # ---------------------------------------------------------- #
+
+    INPUT = f"""input text is " {QUERY} "
     convert this into ASL tokens
     """
+
+    # ---------------------------------------------------------- #
+    # The actual call to the LLM server
+    # ---------------------------------------------------------- #
 
     completion = client.chat.completions.create(
     model="local-model", # this field is currently unused
@@ -49,11 +72,10 @@ def APICall(QUERY : str):
     stream=False,
     )
 
-    # print(completion.choices[0].message)
+    # ---------------------------------------------------------- #
+    # Response Processing and returning a list of tokens
+    # ---------------------------------------------------------- #
 
     X = (str(completion.choices[0].message.content)).split(",")
     LIST = [i.strip() for i in X]
     return(LIST)
-
-
-# print(APICall(INPUT, client))
