@@ -3,7 +3,6 @@ import numpy as np
 import PySimpleGUI as sg
 from APICall import APICall
 from openai import OpenAI
-
 from similarity import similaritySearch
 
 # ---------------------------------------------------------- #
