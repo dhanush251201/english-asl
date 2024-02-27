@@ -4,6 +4,8 @@ import PySimpleGUI as sg
 from APICall import APICall
 from openai import OpenAI
 
+from similarity.py import similaritySearch
+
 # ---------------------------------------------------------- #
 # Connection to the LLM server
 # ---------------------------------------------------------- #

@@ -49,6 +49,12 @@ def APICall(QUERY : str) -> list:
 ```
 Sends a request to the LLM with the *PROMPT* and *QUERY*. It gets back a comma separated string of tokens for the provided *QUERY*. Returns a list of tokens that the LLM generates for the given *QUERY*.
 
+```python
+def similaritySearch(token : str)-> list:
+```
+Accepts a string and performs similarity search using spacy. Returns a list of ` [TOKEN, SCORE, INDEX] `
+
+
 ## PROMPT
 The following string is provided as a prompt.
 
