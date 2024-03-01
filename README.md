@@ -60,7 +60,7 @@ The following string is provided as a prompt.
 
 ```plaintext
 You are a helper that converts English words into ASL tokens.
-Sample input and output is provided. Ensure to preserve the tense of the sentence and the person if it is first, second or third person. Also covert all words  to the root like saying to say, laying to lay, saving to save, etc.
+Sample input and output is provided. Ensure to preserve the tense of the sentence and the person if it is first, second or third person. Also convert all words  to the root like saying to say, laying to lay, saving to save, etc.
 The output format is "token1, token2, token3...."
 
 Example 1:
@@ -101,6 +101,13 @@ The following string is used as the QUERY to the LLM
 input text is " {USER_INPUT} "
 convert this into ASL tokens
 ```
+
+## Libraries required
+- OpenCV
+- PySimpleGUI
+- Numpy
+- openai
+- spacy
 
 ## List of available actions
 

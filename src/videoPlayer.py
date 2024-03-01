@@ -47,7 +47,16 @@ def Sequence(inp : list, action : str) -> None:
 def playVideo(inputFile : str, action : str) -> None:
     cap = cv2.VideoCapture("Videos/"+inputFile)
     if (cap.isOpened() == False):
-        print(f"Error opening video stream or file {inputFile}")
+        print(f"Error opening video stream or file {inputFile}") # EDIT THIS
+        print(f"calling similaritySearch with {inputFile[:-4]}")
+        tempCap = similaritySearch(inputFile[:-4])
+        print(tempCap,inputFile)
+        if tempCap[1]>0.5:
+            print(f"FOUND Similar video to {inputFile}, {tempCap[0]} with confidence {tempCap[1]}")
+            cap = cv2.VideoCapture("Videos/"+tempCap[0]+".mp4")
+        else:
+            print(f"No replacement found")
+
     while (cap.isOpened()):
         ret, frame = cap.read()
         if ret == True:

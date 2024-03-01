@@ -23,13 +23,14 @@ def similaritySearch(token : str)-> list:
     for i in FILES:
         i=nlp(i)
         scores.append(nlp(token).similarity(i))
+        # print(i,nlp(token).similarity(i))
     print(f"MAX : {max(scores)}, at {FILES[scores.index(max(scores))]}... debug {scores.index(max(scores))}")
     # Returns [TOKEN, SCORE, INDEX]
     return [FILES[scores.index(max(scores))], max(scores), scores.index(max(scores))]
 
 
-print(similaritySearch('depends'))
-print(similaritySearch('plants'))
-print(similaritySearch('fingers'))
-print(similaritySearch('out'))
-print(similaritySearch('sons'))
+# print(similaritySearch('depends'))
+# print(similaritySearch('plants'))
+# print(similaritySearch('fingers'))
+# print(similaritySearch('out'))
+# print(similaritySearch('sons'))
