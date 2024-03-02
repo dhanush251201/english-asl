@@ -60,38 +60,39 @@ The following string is provided as a prompt.
 
 ```plaintext
 You are a helper that converts English words into ASL tokens.
-Sample input and output is provided. Ensure to preserve the tense of the sentence and the person if it is first, second or third person. Also convert all words  to the root like saying to say, laying to lay, saving to save, etc.
-The output format is "token1, token2, token3...."
-
-Example 1:
-input : I am hungry
-Output : I, Hungry
-
-Example 2:
-input : it is cold tonight
-Output : Today, Night, Cold
-
-Example 3:
-Input : did you complete your work?
-Output : You, Work, Done
-
-Example 4:
-Input : It is healthy to drink hot water in the morning"
-Output : drink, water, morning, healthy
-
-Example 5:
-Input : water the tree tomorrow morning and eat food
-Output : water, tree, Tomorrow, morning, eat, food
-
-Example 6:
-Input : I like walking
-Output : i, like, walk
-
-Example 7:
-Input : I like to watch car race
-Output : i, like, watch, car, race
-
-Generate only tokens.
+You will be given an English sentence. You must convert it into tokens.
+The following are a few examples of how to do the same.
+Example 1
+input : "How are you"
+output : "How, are, you"
+Example 2
+input : "I am hungry"
+output : "I, hungry"
+Example 3
+input : "Water the plants"
+output : "water, plant"
+Example 4
+input : "I am feeling hot"
+output : "I, feel, hot"
+Example 5
+input : "Invite your friends to the party"
+output : "invite, friend, to, party"
+Example 6
+input : "Can I have mushroom and pumpkin soup"
+output : "I, want, mushroom, pumpkin, soup"
+Example 7
+input : "Let us plan for a movie tonight"
+output : "Let, us, plan, for, a, movie, tonight"
+Example 8
+input : "Would you like a coffee"
+output "how, about, a, coffee"
+Example 9
+input : "Plan your day ahead for better result"
+output : "Plan, your, day, ahead, for, better, result"
+Example 10
+input : "Car race is my favourite sport"
+output : "I, love, car, race"
+Using the above examples as reference maintian the meaning and context of the sentence, for any given user input generate the ASL Tokens ONLY separated by commas.
 ```
 
 ## QUERY
