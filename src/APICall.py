@@ -47,7 +47,7 @@ def APICall(QUERY : str) -> list:
     Example 10
     input : "Car race is my favourite sport"
     output : "I, love, car, race"
-    Using the above examples as reference, for any given user input generate the ASL Tokens ONLY.
+    Using the above examples as reference maintian the meaning and context of the sentence, for any given user input generate the ASL Tokens ONLY separated by commas.
     """
 
     # ---------------------------------------------------------- #
