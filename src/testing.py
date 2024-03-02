@@ -104,7 +104,7 @@ def findTokensAfter(SEQUENCE : list, action : str) -> dict:
             result["missing"].append(i)
             SIM = similaritySearch(i[:-4])
             # Returns [TOKEN, SCORE, INDEX]
-            if SIM[1] > 0.5:
+            if SIM[1] > 0.7:
                 result["SimilarityFound"].append(SIM[0])
             else:
                 result["SimilarityMissing"].append(SIM[0])

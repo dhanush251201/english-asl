@@ -1,1253 +1,1257 @@
 [
-    {
-        "name": "Water the plants",
-        "tokenCount": 2,
-        "found": [
-            "water.mp4",
-            "plant.mp4"
-        ],
-        "missing": [],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "I like to drive cars",
-        "tokenCount": 2,
-        "found": [
-            "drive.mp4",
-            "car.mp4"
-        ],
-        "missing": [],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "The cat jumped over the fence",
-        "tokenCount": 3,
-        "found": [
-            "jump.mp4",
-            "over.mp4",
-            "fence.mp4"
-        ],
-        "missing": [],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "I like to eat apples",
-        "tokenCount": 2,
-        "found": [
-            "eat.mp4",
-            "apple.mp4"
-        ],
-        "missing": [],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "The sun is shining brightly",
-        "tokenCount": 2,
-        "found": [
-            "sun.mp4"
-        ],
-        "missing": [
-            "brightly.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "Birds sing in the morning",
-        "tokenCount": 3,
-        "found": [
-            "sing.mp4",
-            "bird.mp4",
-            "morning.mp4"
-        ],
-        "missing": [],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "She smiled at me",
-        "tokenCount": 2,
-        "found": [
-            "smile.mp4",
-            "you.mp4"
-        ],
-        "missing": [],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "My dog loves to play fetch",
-        "tokenCount": 4,
-        "found": [
-            "dog.mp4",
-            "love.mp4",
-            "play.mp4"
-        ],
-        "missing": [
-            "fetch.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "Raindrops fall softly on the ground",
-        "tokenCount": 3,
-        "found": [
-            "rain.mp4",
-            "drop.mp4"
-        ],
-        "missing": [
-            "ground.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "He runs fast",
-        "tokenCount": 2,
-        "found": [
-            "run.mp4",
-            "fast.mp4"
-        ],
-        "missing": [],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "The flowers bloom in spring",
-        "tokenCount": 2,
-        "found": [
-            "spring.mp4"
-        ],
-        "missing": [
-            "bloom.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "The book is on the table",
-        "tokenCount": 2,
-        "found": [
-            "book.mp4",
-            "table.mp4"
-        ],
-        "missing": [],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "We went to the park yesterday",
-        "tokenCount": 2,
-        "found": [
-            "yesterday.mp4"
-        ],
-        "missing": [
-            "park.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "I can swim in the pool",
-        "tokenCount": 2,
-        "found": [
-            "swim.mp4"
-        ],
-        "missing": [
-            "pool.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "The moon is full tonight",
-        "tokenCount": 3,
-        "found": [
-            "moon.mp4",
-            "full.mp4",
-            "night.mp4"
-        ],
-        "missing": [],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "I enjoy watching movies",
-        "tokenCount": 2,
-        "found": [
-            "enjoy.mp4",
-            "movie.mp4"
-        ],
-        "missing": [],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "She sings beautifully",
-        "tokenCount": 2,
-        "found": [
-            "beautiful.mp4",
-            "sing.mp4"
-        ],
-        "missing": [],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "The car stopped suddenly",
-        "tokenCount": 2,
-        "found": [
-            "car.mp4"
-        ],
-        "missing": [
-            "suddenly.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "My mom cooks delicious meals",
-        "tokenCount": 3,
-        "found": [
-            "mom.mp4",
-            "cook.mp4"
-        ],
-        "missing": [
-            "meal.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "The tree has green leaves",
-        "tokenCount": 3,
-        "found": [
-            "tree.mp4",
-            "green.mp4",
-            "leave.mp4"
-        ],
-        "missing": [],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "The sky is blue",
-        "tokenCount": 2,
-        "found": [
-            "sky.mp4",
-            "blue.mp4"
-        ],
-        "missing": [],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "I feel happy today",
-        "tokenCount": 2,
-        "found": [
-            "happy.mp4",
-            "today.mp4"
-        ],
-        "missing": [],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "The clock ticks loudly",
-        "tokenCount": 3,
-        "found": [
-            "i.mp4",
-            "clock.mp4"
-        ],
-        "missing": [
-            "tick.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "The baby laughs a lot",
-        "tokenCount": 5,
-        "found": [
-            "baby.mp4",
-            "a.mp4"
-        ],
-        "missing": [
-            "the.mp4",
-            "laughs.mp4",
-            "lot.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "We play games together",
-        "tokenCount": 2,
-        "found": [
-            "play.mp4",
-            "game.mp4"
-        ],
-        "missing": [],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "The horse gallops across the field",
-        "tokenCount": 2,
-        "found": [],
-        "missing": [
-            "gallop.mp4",
-            "field.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "I brush my teeth every morning",
-        "tokenCount": 3,
-        "found": [
-            "brush.mp4",
-            "teeth.mp4",
-            "morning.mp4"
-        ],
-        "missing": [],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "The wind blows gently",
-        "tokenCount": 3,
-        "found": [
-            "blow.mp4",
-            "wind.mp4"
-        ],
-        "missing": [
-            "gently.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "I drink milk with my cereal",
-        "tokenCount": 2,
-        "found": [
-            "milk.mp4",
-            "cereal.mp4"
-        ],
-        "missing": [],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "The stars twinkle at night",
-        "tokenCount": 3,
-        "found": [
-            "night.mp4",
-            "star.mp4"
-        ],
-        "missing": [
-            "twinkle.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "He rides his bike to school",
-        "tokenCount": 3,
-        "found": [
-            "bike.mp4",
-            "ride.mp4",
-            "school.mp4"
-        ],
-        "missing": [],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "I like to draw pictures",
-        "tokenCount": 3,
-        "found": [
-            "i.mp4",
-            "picture.mp4",
-            "draw.mp4"
-        ],
-        "missing": [],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "The butterfly flutters its wings",
-        "tokenCount": 3,
-        "found": [
-            "how.mp4"
-        ],
-        "missing": [
-            "flutter.mp4",
-            "wings.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "She reads books quietly",
-        "tokenCount": 3,
-        "found": [
-            "read.mp4",
-            "book.mp4"
-        ],
-        "missing": [
-            "quietly.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "I hear birds singing outside",
-        "tokenCount": 3,
-        "found": [
-            "sing.mp4",
-            "outside.mp4"
-        ],
-        "missing": [
-            "birds.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "The train chugs along the tracks",
-        "tokenCount": 2,
-        "found": [],
-        "missing": [
-            "chug.mp4",
-            "track.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "The door creaks open",
-        "tokenCount": 3,
-        "found": [
-            "how.mp4",
-            "open.mp4",
-            "door.mp4"
-        ],
-        "missing": [],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "We walk to the store",
-        "tokenCount": 2,
-        "found": [
-            "walk.mp4",
-            "store.mp4"
-        ],
-        "missing": [],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "The spider spins a web",
-        "tokenCount": 3,
-        "found": [
-            "spider.mp4",
-            "spin.mp4"
-        ],
-        "missing": [
-            "web.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "I feel sleepy after lunch",
-        "tokenCount": 4,
-        "found": [
-            "i.mp4",
-            "sleepy.mp4",
-            "after.mp4",
-            "lunch.mp4"
-        ],
-        "missing": [],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "The river flows calmly",
-        "tokenCount": 2,
-        "found": [],
-        "missing": [
-            "calmly.mp4",
-            "flow.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "He builds sandcastles at the beach",
-        "tokenCount": 3,
-        "found": [
-            "build.mp4"
-        ],
-        "missing": [
-            "beach.mp4",
-            "sandcastle.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "The fish swims in the pond",
-        "tokenCount": 3,
-        "found": [
-            "swim.mp4",
-            "fish.mp4"
-        ],
-        "missing": [
-            "pond.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "I wave goodbye to my friend",
-        "tokenCount": 2,
-        "found": [
-            "goodbye.mp4",
-            "friend.mp4"
-        ],
-        "missing": [],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "The grass feels soft under my feet",
-        "tokenCount": 3,
-        "found": [
-            "grass.mp4",
-            "soft.mp4"
-        ],
-        "missing": [
-            "feet.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "The dog barks loudly",
-        "tokenCount": 2,
-        "found": [
-            "bark.mp4"
-        ],
-        "missing": [
-            "loudly.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "She bakes cookies in the oven",
-        "tokenCount": 3,
-        "found": [
-            "bake.mp4",
-            "cookie.mp4"
-        ],
-        "missing": [
-            "oven.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "The clouds drift across the sky",
-        "tokenCount": 2,
-        "found": [
-            "sky.mp4",
-            "cloud.mp4"
-        ],
-        "missing": [],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "I like to ride my skateboard",
-        "tokenCount": 2,
-        "found": [
-            "ride.mp4"
-        ],
-        "missing": [
-            "board.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "The bell rings for recess",
-        "tokenCount": 2,
-        "found": [
-            "bell.mp4"
-        ],
-        "missing": [
-            "recess.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "He kicks the ball into the goal",
-        "tokenCount": 3,
-        "found": [
-            "go.mp4",
-            "ball.mp4",
-            "goal.mp4"
-        ],
-        "missing": [],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "I plant flowers in the garden",
-        "tokenCount": 3,
-        "found": [
-            "flower.mp4",
-            "plant.mp4"
-        ],
-        "missing": [
-            "garden.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "The airplane flies high in the sky",
-        "tokenCount": 3,
-        "found": [
-            "fly.mp4",
-            "high.mp4",
-            "sky.mp4"
-        ],
-        "missing": [],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "We watch a movie together",
-        "tokenCount": 3,
-        "found": [
-            "watch.mp4",
-            "movie.mp4",
-            "together.mp4"
-        ],
-        "missing": [],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "The candle flickers in the wind",
-        "tokenCount": 2,
-        "found": [
-            "wind.mp4"
-        ],
-        "missing": [
-            "flicker.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "She writes a letter to her grandmother",
-        "tokenCount": 2,
-        "found": [
-            "letter.mp4",
-            "grandmother.mp4"
-        ],
-        "missing": [],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "I eat popcorn at the movies",
-        "tokenCount": 3,
-        "found": [
-            "eat.mp4",
-            "popcorn.mp4",
-            "movie.mp4"
-        ],
-        "missing": [],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "The bee buzzes around the flowers",
-        "tokenCount": 2,
-        "found": [
-            "bee.mp4",
-            "flower.mp4"
-        ],
-        "missing": [],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "The cat purrs when I pet it",
-        "tokenCount": 3,
-        "found": [
-            "pet.mp4"
-        ],
-        "missing": [
-            "purr.mp4",
-            "it.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "He fixes his bicycle tire",
-        "tokenCount": 3,
-        "found": [
-            "fix.mp4",
-            "bike.mp4"
-        ],
-        "missing": [
-            "tire.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "The mouse squeaks in the corner",
-        "tokenCount": 2,
-        "found": [
-            "corner.mp4"
-        ],
-        "missing": [
-            "squeak.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "We climb trees in the park",
-        "tokenCount": 3,
-        "found": [
-            "climb.mp4",
-            "tree.mp4"
-        ],
-        "missing": [
-            "park.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "I pick apples from the tree",
-        "tokenCount": 4,
-        "found": [
-            "i.mp4",
-            "pick.mp4",
-            "apple.mp4",
-            "tree.mp4"
-        ],
-        "missing": [],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "The dog wags its tail happily",
-        "tokenCount": 3,
-        "found": [
-            "happy.mp4"
-        ],
-        "missing": [
-            "tail.mp4",
-            "wag.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "She dances in the rain",
-        "tokenCount": 2,
-        "found": [
-            "dance.mp4",
-            "rain.mp4"
-        ],
-        "missing": [],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "I paint a picture of the sunset",
-        "tokenCount": 3,
-        "found": [
-            "sun.mp4",
-            "picture.mp4"
-        ],
-        "missing": [
-            "set.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "The radio plays my favorite song",
-        "tokenCount": 3,
-        "found": [
-            "song.mp4",
-            "play.mp4",
-            "favorite.mp4"
-        ],
-        "missing": [],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "He hugs his teddy bear tightly",
-        "tokenCount": 3,
-        "found": [
-            "hug.mp4",
-            "bear.mp4"
-        ],
-        "missing": [
-            "tight.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "The teacher explains the lesson",
-        "tokenCount": 3,
-        "found": [
-            "teach.mp4"
-        ],
-        "missing": [
-            "i learn.mp4",
-            "lesson\n\nplease provide the english sentence you would like me to convert into asl tokens..mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "I find seashells on the beach",
-        "tokenCount": 2,
-        "found": [],
-        "missing": [
-            "beach.mp4",
-            "shell.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "The windmill spins in the breeze",
-        "tokenCount": 3,
-        "found": [
-            "spin.mp4",
-            "breeze.mp4"
-        ],
-        "missing": [
-            "windmill.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "We roast marshmallows over the fire",
-        "tokenCount": 3,
-        "found": [
-            "fire.mp4"
-        ],
-        "missing": [
-            "marshmallow.mp4",
-            "roast.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "The owl hoots in the night",
-        "tokenCount": 2,
-        "found": [
-            "night.mp4"
-        ],
-        "missing": [
-            "hoot.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "I build a sandcastle with my shovel",
-        "tokenCount": 3,
-        "found": [
-            "shovel.mp4"
-        ],
-        "missing": [
-            "castle.mp4",
-            "sand.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "The cat stretches lazily",
-        "tokenCount": 3,
-        "found": [
-            "cat.mp4",
-            "stretch.mp4",
-            "lazy.mp4"
-        ],
-        "missing": [],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "She blows bubbles with bubblegum",
-        "tokenCount": 3,
-        "found": [
-            "blow.mp4",
-            "gum.mp4"
-        ],
-        "missing": [
-            "bubble.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "I ride my bike to the park",
-        "tokenCount": 3,
-        "found": [
-            "ride.mp4",
-            "bike.mp4"
-        ],
-        "missing": [
-            "park.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "The snow falls gently from the sky",
-        "tokenCount": 3,
-        "found": [
-            "sky.mp4"
-        ],
-        "missing": [
-            "gently.mp4",
-            "fall.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "He catches a fish in the lake",
-        "tokenCount": 2,
-        "found": [
-            "fish.mp4"
-        ],
-        "missing": [
-            "lake.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "The fire crackles and pops",
-        "tokenCount": 2,
-        "found": [],
-        "missing": [
-            "crackle.mp4",
-            "pop.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "I skip rocks across the pond",
-        "tokenCount": 4,
-        "found": [
-            "i.mp4",
-            "skip.mp4",
-            "rock.mp4"
-        ],
-        "missing": [
-            "pond.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "The clock ticks slowly",
-        "tokenCount": 3,
-        "found": [
-            "i.mp4",
-            "slow.mp4"
-        ],
-        "missing": [
-            "tick.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "We have a picnic in the backyard",
-        "tokenCount": 2,
-        "found": [],
-        "missing": [
-            "backyard.mp4",
-            "picnic.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "The squirrel gathers nuts for winter",
-        "tokenCount": 3,
-        "found": [
-            "gather.mp4",
-            "nut.mp4",
-            "winter.mp4"
-        ],
-        "missing": [],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "I wear my favorite pajamas to bed",
-        "tokenCount": 4,
-        "found": [
-            "wear.mp4",
-            "favorite.mp4",
-            "bed.mp4"
-        ],
-        "missing": [
-            "pajama.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "The ice cream melts in the sun",
-        "tokenCount": 3,
-        "found": [
-            "sun.mp4",
-            "melt.mp4",
-            "ice cream.mp4"
-        ],
-        "missing": [],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "She sings a song for her friends",
-        "tokenCount": 2,
-        "found": [
-            "song.mp4",
-            "friend.mp4"
-        ],
-        "missing": [],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "I play with my toys on the floor",
-        "tokenCount": 2,
-        "found": [
-            "floor.mp4"
-        ],
-        "missing": [
-            "toy.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "The bird builds a nest in the tree",
-        "tokenCount": 3,
-        "found": [
-            "tree.mp4",
-            "build.mp4"
-        ],
-        "missing": [
-            "nest.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "He blows out the birthday candles",
-        "tokenCount": 4,
-        "found": [
-            "blow.mp4",
-            "out.mp4",
-            "birthday.mp4"
-        ],
-        "missing": [
-            "candles.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "The spider crawls up the wall",
-        "tokenCount": 3,
-        "found": [
-            "up.mp4",
-            "wall.mp4"
-        ],
-        "missing": [
-            "crawl.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "I jump rope with my friends",
-        "tokenCount": 3,
-        "found": [
-            "jump.mp4",
-            "rope.mp4",
-            "friend.mp4"
-        ],
-        "missing": [],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "The rain pitter-patters on the roof",
-        "tokenCount": 2,
-        "found": [
-            "roof.mp4"
-        ],
-        "missing": [
-            "pitter-pat.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "We have a snowball fight outside",
-        "tokenCount": 3,
-        "found": [
-            "outside.mp4",
-            "fight.mp4"
-        ],
-        "missing": [
-            "snowball.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "The horse neighs loudly",
-        "tokenCount": 2,
-        "found": [
-            "loud.mp4"
-        ],
-        "missing": [
-            "neigh.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "I make a sandcastle at the beach",
-        "tokenCount": 3,
-        "found": [],
-        "missing": [
-            "sand.mp4",
-            "castle.mp4",
-            "beach.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "The cat curls up in a ball",
-        "tokenCount": 4,
-        "found": [
-            "cat.mp4",
-            "up.mp4",
-            "ball.mp4"
-        ],
-        "missing": [
-            "curl.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "She feeds the ducks at the pond",
-        "tokenCount": 3,
-        "found": [
-            "feed.mp4",
-            "duck.mp4"
-        ],
-        "missing": [
-            "pond.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "I fly a kite in the park",
-        "tokenCount": 3,
-        "found": [
-            "fly.mp4"
-        ],
-        "missing": [
-            "kite.mp4",
-            "park.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "The balloon floats away into the sky",
-        "tokenCount": 3,
-        "found": [
-            "away.mp4",
-            "sky.mp4"
-        ],
-        "missing": [
-            "float.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "He rides a rollercoaster at the fair",
-        "tokenCount": 3,
-        "found": [
-            "ride.mp4"
-        ],
-        "missing": [
-            "coaster.mp4",
-            "fair.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    },
-    {
-        "name": "We have a tea party with stuffed animals",
-        "tokenCount": 4,
-        "found": [
-            "tea.mp4",
-            "party.mp4",
-            "animal.mp4"
-        ],
-        "missing": [
-            "stuffed.mp4"
-        ],
-        "SimilarityFound": [],
-        "SimilarityMissing": []
-    }
+  {
+    "name": "Water the plants",
+    "tokenCount": 2,
+    "found": [
+      "water.mp4",
+      "plant.mp4"
+    ],
+    "missing": [],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "I like to drive cars",
+    "tokenCount": 2,
+    "found": [
+      "drive.mp4",
+      "car.mp4"
+    ],
+    "missing": [],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "The cat jumped over the fence",
+    "tokenCount": 3,
+    "found": [
+      "jump.mp4",
+      "over.mp4",
+      "fence.mp4"
+    ],
+    "missing": [],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "I like to eat apples",
+    "tokenCount": 2,
+    "found": [
+      "eat.mp4",
+      "apple.mp4"
+    ],
+    "missing": [],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "The sun is shining brightly",
+    "tokenCount": 2,
+    "found": [
+      "sun.mp4"
+    ],
+    "missing": [
+      "brightly.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "Birds sing in the morning",
+    "tokenCount": 3,
+    "found": [
+      "sing.mp4",
+      "bird.mp4",
+      "morning.mp4"
+    ],
+    "missing": [],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "She smiled at me",
+    "tokenCount": 2,
+    "found": [
+      "smile.mp4",
+      "you.mp4"
+    ],
+    "missing": [],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "My dog loves to play fetch",
+    "tokenCount": 4,
+    "found": [
+      "dog.mp4",
+      "love.mp4",
+      "play.mp4"
+    ],
+    "missing": [
+      "fetch.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "Raindrops fall softly on the ground",
+    "tokenCount": 3,
+    "found": [
+      "rain.mp4",
+      "drop.mp4"
+    ],
+    "missing": [
+      "ground.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "He runs fast",
+    "tokenCount": 2,
+    "found": [
+      "run.mp4",
+      "fast.mp4"
+    ],
+    "missing": [],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "The flowers bloom in spring",
+    "tokenCount": 2,
+    "found": [
+      "spring.mp4"
+    ],
+    "missing": [
+      "bloom.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "The book is on the table",
+    "tokenCount": 2,
+    "found": [
+      "book.mp4",
+      "table.mp4"
+    ],
+    "missing": [],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "We went to the park yesterday",
+    "tokenCount": 2,
+    "found": [
+      "yesterday.mp4"
+    ],
+    "missing": [
+      "park.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "I can swim in the pool",
+    "tokenCount": 2,
+    "found": [
+      "swim.mp4"
+    ],
+    "missing": [
+      "pool.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "The moon is full tonight",
+    "tokenCount": 3,
+    "found": [
+      "moon.mp4",
+      "full.mp4",
+      "night.mp4"
+    ],
+    "missing": [],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "I enjoy watching movies",
+    "tokenCount": 2,
+    "found": [
+      "enjoy.mp4",
+      "movie.mp4"
+    ],
+    "missing": [],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "She sings beautifully",
+    "tokenCount": 2,
+    "found": [
+      "beautiful.mp4",
+      "sing.mp4"
+    ],
+    "missing": [],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "The car stopped suddenly",
+    "tokenCount": 2,
+    "found": [
+      "car.mp4"
+    ],
+    "missing": [
+      "suddenly.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "My mom cooks delicious meals",
+    "tokenCount": 3,
+    "found": [
+      "mom.mp4",
+      "cook.mp4"
+    ],
+    "missing": [
+      "meal.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "The tree has green leaves",
+    "tokenCount": 3,
+    "found": [
+      "tree.mp4",
+      "green.mp4",
+      "leave.mp4"
+    ],
+    "missing": [],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "The sky is blue",
+    "tokenCount": 2,
+    "found": [
+      "sky.mp4",
+      "blue.mp4"
+    ],
+    "missing": [],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "I feel happy today",
+    "tokenCount": 2,
+    "found": [
+      "happy.mp4",
+      "today.mp4"
+    ],
+    "missing": [],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "The clock ticks loudly",
+    "tokenCount": 3,
+    "found": [
+      "i.mp4"
+    ],
+    "missing": [
+      "tick.mp4",
+      "loudly.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "The baby laughs a lot",
+    "tokenCount": 5,
+    "found": [
+      "baby.mp4",
+      "a.mp4"
+    ],
+    "missing": [
+      "the.mp4",
+      "laughs.mp4",
+      "lot.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "We play games together",
+    "tokenCount": 2,
+    "found": [
+      "play.mp4",
+      "game.mp4"
+    ],
+    "missing": [],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "The horse gallops across the field",
+    "tokenCount": 3,
+    "found": [
+      "horse.mp4"
+    ],
+    "missing": [
+      "field.mp4",
+      "gallop.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "I brush my teeth every morning",
+    "tokenCount": 3,
+    "found": [
+      "brush.mp4",
+      "teeth.mp4",
+      "morning.mp4"
+    ],
+    "missing": [],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "The wind blows gently",
+    "tokenCount": 3,
+    "found": [
+      "blow.mp4",
+      "wind.mp4"
+    ],
+    "missing": [
+      "gently.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "I drink milk with my cereal",
+    "tokenCount": 3,
+    "found": [
+      "drink.mp4",
+      "milk.mp4",
+      "cereal.mp4"
+    ],
+    "missing": [],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "The stars twinkle at night",
+    "tokenCount": 3,
+    "found": [
+      "night.mp4",
+      "star.mp4"
+    ],
+    "missing": [
+      "twinkle.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "He rides his bike to school",
+    "tokenCount": 3,
+    "found": [
+      "bike.mp4",
+      "ride.mp4",
+      "school.mp4"
+    ],
+    "missing": [],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "I like to draw pictures",
+    "tokenCount": 3,
+    "found": [
+      "i.mp4",
+      "picture.mp4",
+      "draw.mp4"
+    ],
+    "missing": [],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "The butterfly flutters its wings",
+    "tokenCount": 3,
+    "found": [
+      "how.mp4"
+    ],
+    "missing": [
+      "flutter.mp4",
+      "wing.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "She reads books quietly",
+    "tokenCount": 3,
+    "found": [
+      "read.mp4",
+      "book.mp4"
+    ],
+    "missing": [
+      "quietly.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "I hear birds singing outside",
+    "tokenCount": 3,
+    "found": [
+      "sing.mp4",
+      "outside.mp4"
+    ],
+    "missing": [
+      "birds.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "The train chugs along the tracks",
+    "tokenCount": 2,
+    "found": [],
+    "missing": [
+      "chug.mp4",
+      "track.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "The door creaks open",
+    "tokenCount": 3,
+    "found": [
+      "door.mp4",
+      "open.mp4"
+    ],
+    "missing": [
+      "creak.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "We walk to the store",
+    "tokenCount": 2,
+    "found": [
+      "walk.mp4",
+      "store.mp4"
+    ],
+    "missing": [],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "The spider spins a web",
+    "tokenCount": 3,
+    "found": [
+      "spider.mp4",
+      "spin.mp4"
+    ],
+    "missing": [
+      "web.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "I feel sleepy after lunch",
+    "tokenCount": 4,
+    "found": [
+      "i.mp4",
+      "sleepy.mp4",
+      "after.mp4",
+      "lunch.mp4"
+    ],
+    "missing": [],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "The river flows calmly",
+    "tokenCount": 2,
+    "found": [],
+    "missing": [
+      "calmly.mp4",
+      "flow.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "He builds sandcastles at the beach",
+    "tokenCount": 3,
+    "found": [
+      "build.mp4"
+    ],
+    "missing": [
+      "beach.mp4",
+      "sandcastle.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "The fish swims in the pond",
+    "tokenCount": 3,
+    "found": [
+      "swim.mp4",
+      "fish.mp4"
+    ],
+    "missing": [
+      "pond.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "I wave goodbye to my friend",
+    "tokenCount": 2,
+    "found": [
+      "goodbye.mp4",
+      "friend.mp4"
+    ],
+    "missing": [],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "The grass feels soft under my feet",
+    "tokenCount": 3,
+    "found": [
+      "grass.mp4",
+      "soft.mp4"
+    ],
+    "missing": [
+      "feet.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "The dog barks loudly",
+    "tokenCount": 2,
+    "found": [
+      "bark.mp4"
+    ],
+    "missing": [
+      "loudly.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "She bakes cookies in the oven",
+    "tokenCount": 3,
+    "found": [
+      "bake.mp4",
+      "cookie.mp4"
+    ],
+    "missing": [
+      "oven.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "The clouds drift across the sky",
+    "tokenCount": 2,
+    "found": [
+      "sky.mp4",
+      "cloud.mp4"
+    ],
+    "missing": [],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "I like to ride my skateboard",
+    "tokenCount": 2,
+    "found": [
+      "ride.mp4"
+    ],
+    "missing": [
+      "board.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "The bell rings for recess",
+    "tokenCount": 2,
+    "found": [
+      "bell.mp4"
+    ],
+    "missing": [
+      "recess.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "He kicks the ball into the goal",
+    "tokenCount": 3,
+    "found": [
+      "go.mp4",
+      "ball.mp4",
+      "goal.mp4"
+    ],
+    "missing": [],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "I plant flowers in the garden",
+    "tokenCount": 3,
+    "found": [
+      "flower.mp4",
+      "plant.mp4"
+    ],
+    "missing": [
+      "garden.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "The airplane flies high in the sky",
+    "tokenCount": 3,
+    "found": [
+      "fly.mp4",
+      "high.mp4",
+      "sky.mp4"
+    ],
+    "missing": [],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "We watch a movie together",
+    "tokenCount": 3,
+    "found": [
+      "watch.mp4",
+      "movie.mp4",
+      "together.mp4"
+    ],
+    "missing": [],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "The candle flickers in the wind",
+    "tokenCount": 2,
+    "found": [
+      "wind.mp4"
+    ],
+    "missing": [
+      "flicker.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "She writes a letter to her grandmother",
+    "tokenCount": 2,
+    "found": [
+      "letter.mp4",
+      "grandmother.mp4"
+    ],
+    "missing": [],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "I eat popcorn at the movies",
+    "tokenCount": 3,
+    "found": [
+      "eat.mp4",
+      "popcorn.mp4",
+      "movie.mp4"
+    ],
+    "missing": [],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "The bee buzzes around the flowers",
+    "tokenCount": 2,
+    "found": [
+      "flower.mp4"
+    ],
+    "missing": [
+      "buzz.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "The cat purrs when I pet it",
+    "tokenCount": 3,
+    "found": [
+      "pet.mp4"
+    ],
+    "missing": [
+      "purr.mp4",
+      "it.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "He fixes his bicycle tire",
+    "tokenCount": 3,
+    "found": [
+      "fix.mp4",
+      "bike.mp4"
+    ],
+    "missing": [
+      "tire.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "The mouse squeaks in the corner",
+    "tokenCount": 2,
+    "found": [
+      "corner.mp4"
+    ],
+    "missing": [
+      "squeak.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "We climb trees in the park",
+    "tokenCount": 3,
+    "found": [
+      "climb.mp4",
+      "tree.mp4"
+    ],
+    "missing": [
+      "park.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "I pick apples from the tree",
+    "tokenCount": 4,
+    "found": [
+      "i.mp4",
+      "pick.mp4",
+      "apple.mp4",
+      "tree.mp4"
+    ],
+    "missing": [],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "The dog wags its tail happily",
+    "tokenCount": 3,
+    "found": [
+      "happy.mp4"
+    ],
+    "missing": [
+      "tail.mp4",
+      "wag.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "She dances in the rain",
+    "tokenCount": 2,
+    "found": [
+      "dance.mp4",
+      "rain.mp4"
+    ],
+    "missing": [],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "I paint a picture of the sunset",
+    "tokenCount": 3,
+    "found": [
+      "sun.mp4",
+      "picture.mp4"
+    ],
+    "missing": [
+      "set.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "The radio plays my favorite song",
+    "tokenCount": 3,
+    "found": [
+      "song.mp4",
+      "play.mp4",
+      "favorite.mp4"
+    ],
+    "missing": [],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "He hugs his teddy bear tightly",
+    "tokenCount": 3,
+    "found": [
+      "hug.mp4",
+      "bear.mp4"
+    ],
+    "missing": [
+      "tight.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "The teacher explains the lesson",
+    "tokenCount": 3,
+    "found": [
+      "teach.mp4"
+    ],
+    "missing": [
+      "i learn.mp4",
+      "lesson\n\nplease provide the english sentence you want me to convert into asl tokens..mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "I find seashells on the beach",
+    "tokenCount": 2,
+    "found": [],
+    "missing": [
+      "beach.mp4",
+      "shell.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "The windmill spins in the breeze",
+    "tokenCount": 3,
+    "found": [
+      "spin.mp4",
+      "breeze.mp4"
+    ],
+    "missing": [
+      "windmill.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "We roast marshmallows over the fire",
+    "tokenCount": 3,
+    "found": [
+      "fire.mp4"
+    ],
+    "missing": [
+      "marshmallow.mp4",
+      "roast.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "The owl hoots in the night",
+    "tokenCount": 2,
+    "found": [
+      "night.mp4"
+    ],
+    "missing": [
+      "hoot.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "I build a sandcastle with my shovel",
+    "tokenCount": 3,
+    "found": [
+      "shovel.mp4"
+    ],
+    "missing": [
+      "castle.mp4",
+      "sand.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "The cat stretches lazily",
+    "tokenCount": 3,
+    "found": [
+      "cat.mp4",
+      "stretch.mp4"
+    ],
+    "missing": [
+      "lazily.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "She blows bubbles with bubblegum",
+    "tokenCount": 3,
+    "found": [
+      "blow.mp4",
+      "gum.mp4"
+    ],
+    "missing": [
+      "bubble.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "I ride my bike to the park",
+    "tokenCount": 3,
+    "found": [
+      "ride.mp4",
+      "bike.mp4"
+    ],
+    "missing": [
+      "park.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "The snow falls gently from the sky",
+    "tokenCount": 3,
+    "found": [
+      "sky.mp4"
+    ],
+    "missing": [
+      "gently.mp4",
+      "fall.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "He catches a fish in the lake",
+    "tokenCount": 2,
+    "found": [
+      "fish.mp4"
+    ],
+    "missing": [
+      "lake.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "The fire crackles and pops",
+    "tokenCount": 2,
+    "found": [],
+    "missing": [
+      "crackle.mp4",
+      "pop.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "I skip rocks across the pond",
+    "tokenCount": 4,
+    "found": [
+      "i.mp4",
+      "skip.mp4",
+      "rock.mp4"
+    ],
+    "missing": [
+      "pond.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "The clock ticks slowly",
+    "tokenCount": 4,
+    "found": [
+      "i.mp4",
+      "time.mp4",
+      "slow.mp4"
+    ],
+    "missing": [
+      "tick.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "We have a picnic in the backyard",
+    "tokenCount": 2,
+    "found": [],
+    "missing": [
+      "backyard.mp4",
+      "picnic.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "The squirrel gathers nuts for winter",
+    "tokenCount": 3,
+    "found": [
+      "gather.mp4",
+      "nut.mp4",
+      "winter.mp4"
+    ],
+    "missing": [],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "I wear my favorite pajamas to bed",
+    "tokenCount": 3,
+    "found": [
+      "wear.mp4",
+      "bed.mp4"
+    ],
+    "missing": [
+      "pajama.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "The ice cream melts in the sun",
+    "tokenCount": 3,
+    "found": [
+      "i.mp4",
+      "melt.mp4",
+      "sun.mp4"
+    ],
+    "missing": [],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "She sings a song for her friends",
+    "tokenCount": 2,
+    "found": [
+      "song.mp4",
+      "friend.mp4"
+    ],
+    "missing": [],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "I play with my toys on the floor",
+    "tokenCount": 2,
+    "found": [
+      "floor.mp4"
+    ],
+    "missing": [
+      "toy.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "The bird builds a nest in the tree",
+    "tokenCount": 3,
+    "found": [
+      "tree.mp4",
+      "build.mp4"
+    ],
+    "missing": [
+      "nest.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "He blows out the birthday candles",
+    "tokenCount": 4,
+    "found": [
+      "blow.mp4",
+      "out.mp4",
+      "birthday.mp4",
+      "candle.mp4"
+    ],
+    "missing": [],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "The spider crawls up the wall",
+    "tokenCount": 3,
+    "found": [
+      "up.mp4",
+      "wall.mp4"
+    ],
+    "missing": [
+      "crawl.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "I jump rope with my friends",
+    "tokenCount": 3,
+    "found": [
+      "jump.mp4",
+      "rope.mp4",
+      "friend.mp4"
+    ],
+    "missing": [],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "The rain pitter-patters on the roof",
+    "tokenCount": 2,
+    "found": [
+      "roof.mp4"
+    ],
+    "missing": [
+      "pitter-pat.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "We have a snowball fight outside",
+    "tokenCount": 3,
+    "found": [
+      "outside.mp4",
+      "fight.mp4"
+    ],
+    "missing": [
+      "snowball.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "The horse neighs loudly",
+    "tokenCount": 2,
+    "found": [
+      "loud.mp4"
+    ],
+    "missing": [
+      "neigh.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "I make a sandcastle at the beach",
+    "tokenCount": 3,
+    "found": [],
+    "missing": [
+      "sand.mp4",
+      "castle.mp4",
+      "beach.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "The cat curls up in a ball",
+    "tokenCount": 3,
+    "found": [
+      "up.mp4",
+      "ball.mp4"
+    ],
+    "missing": [
+      "curl.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "She feeds the ducks at the pond",
+    "tokenCount": 3,
+    "found": [
+      "feed.mp4",
+      "duck.mp4"
+    ],
+    "missing": [
+      "pond.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "I fly a kite in the park",
+    "tokenCount": 3,
+    "found": [
+      "fly.mp4"
+    ],
+    "missing": [
+      "kite.mp4",
+      "park.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "The balloon floats away into the sky",
+    "tokenCount": 3,
+    "found": [
+      "away.mp4",
+      "sky.mp4"
+    ],
+    "missing": [
+      "float.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "He rides a rollercoaster at the fair",
+    "tokenCount": 3,
+    "found": [
+      "ride.mp4"
+    ],
+    "missing": [
+      "coaster.mp4",
+      "fair.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  },
+  {
+    "name": "We have a tea party with stuffed animals",
+    "tokenCount": 4,
+    "found": [
+      "tea.mp4",
+      "party.mp4",
+      "animal.mp4"
+    ],
+    "missing": [
+      "stuffed.mp4"
+    ],
+    "SimilarityFound": [],
+    "SimilarityMissing": []
+  }
 ]
