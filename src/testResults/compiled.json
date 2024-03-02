@@ -4,13 +4,23 @@
     "found": 190,
     "missing": 87,
     "searchFound": 0,
-    "searchMissing": 0
+    "searchMissing": 0,
+    "foundPercent": "68.592%",
+    "missingPercent": "31.408%",
+    "searchFoundPercent": "0.0%",
+    "searchMissingPercent": "0.0%",
+    "after": "68.592%"
   },
   "After Enhancements": {
     "tokenCount": 277,
     "found": 190,
     "missing": 87,
     "searchFound": 24,
-    "searchMissing": 63
+    "searchMissing": 63,
+    "foundPercent": "68.592%",
+    "missingPercent": "31.408%",
+    "searchFoundPercent": "27.586%",
+    "searchMissingPercent": "72.414%",
+    "after": "77.256%"
   }
 }
